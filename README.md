@@ -1,6 +1,6 @@
 # Stage Analysis
 StageAnalysisAndDesign
-
+Cadeira: Motor Foguete a Propelente Liquido - Engenharia Aeroespacial - 2023.2, UFMA
 ## CLASSE DE AVALIAÇÃO DE DV
 
 De modo a avaliar o dV para diferentes motores e em diferentes configurações, foi desenvolvida
